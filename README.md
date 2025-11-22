@@ -1,2 +1,2 @@
 # BioinformaticsProject.AbigailGomez
-Code for bioinformatics project
+Abigail Gomez 1001785643
